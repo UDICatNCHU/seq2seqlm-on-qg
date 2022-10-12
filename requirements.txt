@@ -5,3 +5,4 @@ pytorch-lightning==1.4.9
 wandb
 stanza
 loguru
+torchmetrics==0.5
